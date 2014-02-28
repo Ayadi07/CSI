@@ -1,0 +1,40 @@
+Accor SA
+Credit Agricole
+Air Liquide SA	
+Alstom SA
+Alcatel-Lucent	
+Danone
+BNP Paribas
+Carrefour	
+Capgemini	
+AXA SA
+Vinci
+European Aeronautic Defenceand Space NV
+Electricite de France S.A.
+Essilor International SA	
+Bouygues
+Total SA
+France Telecom SA
+Societe Generale
+GDF Suez
+Natixis
+Lafarge SA
+LVMH Moet Hennessy Louis Vuitton SA
+Michelin
+ARCELORMITTAL REG
+L'Oreal SA
+PPR
+Publicis Groupe SA
+Pernod Ricard NV	
+Renault SA
+Sanofi
+Suez Environnement Company SA
+Compagnie de Saint-Gobain
+STMicroelectronics NV
+Schneider Electric
+Technip
+Peugeot
+Unibail-Rodamco SE
+Veolia Environnement SA
+Vivendi SA
+Vallourec SA

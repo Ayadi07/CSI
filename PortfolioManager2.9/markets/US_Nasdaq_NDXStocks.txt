@@ -1,0 +1,100 @@
+Apple Inc.
+Adobe Systems Inc.
+Automatic Data Processing, Inc.
+Autodesk, Inc.
+Akamai Technologies, Inc.
+Altera Corp.
+Alexion Pharmaceuticals, Inc.
+Applied Materials, Inc.
+Amgen Inc.
+Amazon.com Inc.
+Apollo Group Inc.
+Activision Blizzard, Inc.
+Avago Technologies Limited.
+Bed Bath & Beyond Inc.
+Baidu, Inc.
+Biogen Idec Inc.
+BMC Software Inc.
+Broadcom Corp.
+CA Technologies
+Celgene Corporation
+Cerner Corporation
+Check Point Software Technologies Ltd.
+CH Robinson Worldwide Inc.
+Comcast Corporation.
+Costco Wholesale Corporation.
+Cisco Systems, Inc.
+Cognizant Technology Solutions Corporation
+Citrix Systems, Inc.
+Dell Inc.
+Dollar Tree, Inc.
+DIRECTV	
+Electronic Arts Inc.
+eBay Inc.
+Express Scripts Holding Company
+Expeditors International of Washington Inc.
+Expedia Inc.	
+Fastenal Company
+Facebook, Inc.
+F5 Networks, Inc.
+Fiserv, Inc.
+Flextronics International Ltd.
+Fossil, Inc.
+Gilead Sciences Inc.
+Green Mountain Coffee Roasters,Inc.
+Randgold Resources Limited
+Google Inc.
+Garmin Ltd.
+Henry Schein, Inc.
+Intel Corporation
+Intuit Inc.
+Intuitive Surgical, Inc.
+KLA-Tencor Corporation
+Life Technologies Corporation
+Liberty Interactive Corporation
+Linear Technology Corporation
+Lam Research Corporation
+Mattel, Inc.
+Microchip Technology Inc.
+Mondelez International, Inc.
+Monster Beverage Corporation
+Marvell Technology Group Ltd.
+Microsoft Corporation
+Micron Technology Inc.
+Maxim Integrated Products,Inc
+Mylan, Inc.
+Netflix, Inc.
+NetApp, Inc.
+Nuance Communications,Inc.
+NVIDIA Corporation
+News Corp.
+Oracle Corporation
+O'Reilly Automotive Inc.
+Paychex, Inc.
+PACCAR Inc.
+priceline.com Incorporated
+Perrigo Co.
+QUALCOMM Incorporated
+BlackBerry			
+Ross Stores Inc.
+Starbucks Corporation
+Sears Holdings Corporation
+Sigma-Aldrich Corporation
+SIRIUS XM Radio Inc.
+SanDisk Corp.
+Staples, Inc.
+Stericycle, Inc.
+Seagate Technology Public Limited Company
+Symantec Corporation
+Texas Instruments Inc.
+Viacom, Inc.
+Virgin Media, Inc.
+Vodafone Group Public Limited Company
+VeriSign, Inc.
+Vertex Pharmaceuticals Incorporated
+Warner Chilcott plc
+Whole Foods Market, Inc.
+Wynn Resorts Ltd.
+Xilinx Inc.
+DENTSPLY International Inc.
+Yahoo! Inc.
